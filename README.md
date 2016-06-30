@@ -1,4 +1,4 @@
-PSO：粒子群算法在PHP和C++的实现<br>
+PSO：飞机航班优化问题粒子群算法在PHP和C++的实现<br>
 <a href=http://pso.zhengpeilin.com/>http://pso.zhengpeilin.com/</a><br>
 <br>
 C++实现：pso.cpp<br>
